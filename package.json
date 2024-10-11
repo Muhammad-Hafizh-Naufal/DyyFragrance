@@ -11,6 +11,7 @@
   "dependencies": {
     "flowbite": "^2.3.0",
     "next": "14.2.3",
+    "nodemailer": "^6.9.14",
     "react": "^18",
     "react-dom": "^18"
   },

@@ -4,8 +4,9 @@ export default function productPage() {
   return (
     <section className="flex flex-wrap justify-center">
       <div className="flex">
-        <h1 className="text-4xl pt-5 pb-3 text-center">Best Of The Best</h1>
+        <h1 className="text-4xl pt-5 pb-3 text-center">Eau de Parfum (EDP)</h1>
       </div>
+
       <div className="flex flex-wrap justify-center">
         {/* Card 1 */}
         <div className="relative m-10 flex w-full max-w-xs flex-col overflow-hidden rounded-lg border border-gray-100 bg-white shadow-md">
@@ -33,9 +34,11 @@ export default function productPage() {
             </a>
             <div className="mt-2 mb-5 flex items-center justify-between">
               <p>
-                <span className="text-3xl font-bold text-slate-900">$449</span>
+                <span className="text-3xl font-bold text-slate-900">
+                  Rp.35.000
+                </span>
                 <span className="text-sm text-slate-900 line-through">
-                  $699
+                  Rp63.934
                 </span>
               </p>
               <div className="flex items-center">
@@ -138,9 +141,11 @@ export default function productPage() {
             </a>
             <div className="mt-2 mb-5 flex items-center justify-between">
               <p>
-                <span className="text-3xl font-bold text-slate-900">$449</span>
+                <span className="text-3xl font-bold text-slate-900">
+                  Rp35.000
+                </span>
                 <span className="text-sm text-slate-900 line-through">
-                  $699
+                  Rp57.377
                 </span>
               </p>
               <div className="flex items-center">
@@ -243,9 +248,11 @@ export default function productPage() {
             </a>
             <div className="mt-2 mb-5 flex items-center justify-between">
               <p>
-                <span className="text-3xl font-bold text-slate-900">$449</span>
+                <span className="text-3xl font-bold text-slate-900">
+                  Rp.40.000
+                </span>
                 <span className="text-sm text-slate-900 line-through">
-                  $699
+                  Rp65.574
                 </span>
               </p>
               <div className="flex items-center">
@@ -348,9 +355,11 @@ export default function productPage() {
             </a>
             <div className="mt-2 mb-5 flex items-center justify-between">
               <p>
-                <span className="text-3xl font-bold text-slate-900">$449</span>
+                <span className="text-3xl font-bold text-slate-900">
+                  Rp40.000
+                </span>
                 <span className="text-sm text-slate-900 line-through">
-                  $699
+                  Rp65.574
                 </span>
               </p>
               <div className="flex items-center">
@@ -453,9 +462,12 @@ export default function productPage() {
             </a>
             <div className="mt-2 mb-5 flex items-center justify-between">
               <p>
-                <span className="text-3xl font-bold text-slate-900">$449</span>
+                <span className="text-3xl font-bold text-slate-900">
+                  {" "}
+                  Rp40.000
+                </span>
                 <span className="text-sm text-slate-900 line-through">
-                  $699
+                  Rp65.574
                 </span>
               </p>
               <div className="flex items-center">
